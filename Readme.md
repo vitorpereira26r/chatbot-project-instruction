@@ -355,3 +355,13 @@ curl --location --request PATCH 'https://apigo.vprcloud.com.br/api/models/gemma'
 
 Para rodar o aplicativo, seguir as instruções do Readme.md do repositório abaixo:
 <https://github.com/vitorpereira26r/chat-bot-mobile-app>
+
+## Referências
+
+- Repositório mobile app: <https://github.com/vitorpereira26r/chat-bot-mobile-app>
+- Repositório backend: <https://github.com/vitorpereira26r/chat-bot-backend>
+- Repositório servidor ollama (fork): <https://github.com/vitorpereira26r/aws-ec2-cuda-ollama>
+- Repositório original servidor ollama: <https://github.com/developersdigest/aws-ec2-cuda-ollama>
+- Vídeo explicativo servidor ollama AWS (Canal: "Developers Digest"): <https://www.youtube.com/watch?v=SAhUc9ywIiw&t=1s>
+- Documentação Ollama: <https://ollama.com/>
+- Digital Ocean: <https://cloud.digitalocean.com>
